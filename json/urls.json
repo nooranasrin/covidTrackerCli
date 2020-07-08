@@ -1,0 +1,6 @@
+{
+  "countries": "https://api-corona.azurewebsites.net/country/",
+  "world": "https://corona-virus-stats.herokuapp.com/api/v1/cases/general-stats",
+  "district": "https://api.covid19india.org/state_district_wise.json",
+  "state": "https://api.covidindiatracker.com/state_data.json"
+}
